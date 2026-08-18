@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a62a1fa9905e46845ac64298ac1402fa
+timeCreated: 1527813151
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119876
+  packageName: Fellbeast
+  packageVersion: 1.0
+  assetPath: Assets/Fellbeast/Assets/ReadMe/ReadMe.txt
+  uploadId: 248992

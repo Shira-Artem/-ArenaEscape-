@@ -1,0 +1,1 @@
+Thank you for acquiring the Fellbeast package. In case you need this asset to be somehow modified to better suit the requirements of your game(i.e.:a lower poly count, a custom animation or material,etc.)contact support. 

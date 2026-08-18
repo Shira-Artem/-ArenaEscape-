@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c9197364c6cba55488e3d6f52abb1210
+timeCreated: 1527785683
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119876
+  packageName: Fellbeast
+  packageVersion: 1.0
+  assetPath: Assets/Fellbeast/Assets/Script/CameraLookAt.cs
+  uploadId: 248992
